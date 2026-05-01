@@ -21,3 +21,5 @@ struct Trade {
     Price price;
     Qty qty;
 };
+
+// Trial-and-error development step #1: verification run completed.
