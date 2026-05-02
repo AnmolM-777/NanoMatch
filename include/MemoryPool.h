@@ -42,3 +42,5 @@ private:
     Order* next_free_;
     size_t capacity_;
 };
+
+// Trial-and-error development step #2: verification run completed.
