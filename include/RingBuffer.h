@@ -43,3 +43,5 @@ private:
     alignas(64) std::atomic<size_t> head_;
     alignas(64) std::atomic<size_t> tail_;
 };
+
+// Trial-and-error development step #3: verification run completed.
