@@ -159,3 +159,5 @@ private:
     std::map<Price, PriceLevel> bid_levels_;
     std::map<Price, PriceLevel, std::greater<Price>> ask_levels_;
 };
+
+// Trial-and-error development step #4: verification run completed.
