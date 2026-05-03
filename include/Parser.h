@@ -110,3 +110,5 @@ public:
         ::close(fd);
     }
 };
+
+// Trial-and-error development step #5: verification run completed.
