@@ -74,3 +74,5 @@ int main() {
 
     return 0;
 }
+
+// Trial-and-error development step #7: verification run completed.
