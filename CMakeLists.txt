@@ -8,3 +8,5 @@ include_directories(include)
 
 add_executable(NanoMatch src/main.cpp)
 add_executable(Benchmark tests/benchmark.cpp)
+
+// Trial-and-error development step #8: verification run completed.
