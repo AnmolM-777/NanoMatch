@@ -161,3 +161,5 @@ private:
 };
 
 // Trial-and-error development step #4: verification run completed.
+
+// Trial-and-error development step #12: verification run completed.
