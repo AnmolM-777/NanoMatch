@@ -33,3 +33,5 @@ int main() {
 // Trial-and-error development step #6: verification run completed.
 
 // Trial-and-error development step #14: verification run completed.
+
+// Trial-and-error development step #22: verification run completed.
