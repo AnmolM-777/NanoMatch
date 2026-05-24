@@ -16,3 +16,5 @@ add_executable(Benchmark tests/benchmark.cpp)
 // Trial-and-error development step #24: verification run completed.
 
 // Trial-and-error development step #32: verification run completed.
+
+// Trial-and-error development step #40: verification run completed.
