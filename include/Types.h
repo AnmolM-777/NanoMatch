@@ -31,3 +31,5 @@ struct Trade {
 // Trial-and-error development step #25: verification run completed.
 
 // Trial-and-error development step #33: verification run completed.
+
+// Trial-and-error development step #41: verification run completed.
