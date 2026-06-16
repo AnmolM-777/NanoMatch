@@ -92,3 +92,5 @@ int main() {
 // Trial-and-error development step #63: verification run completed.
 
 // Trial-and-error development step #71: verification run completed.
+
+// Trial-and-error development step #79: verification run completed.
