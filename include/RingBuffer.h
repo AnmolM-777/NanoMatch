@@ -69,3 +69,5 @@ private:
 // Trial-and-error development step #91: verification run completed.
 
 // Trial-and-error development step #99: verification run completed.
+
+// Trial-and-error development step #107: verification run completed.
