@@ -159,33 +159,3 @@ private:
     std::map<Price, PriceLevel> bid_levels_;
     std::map<Price, PriceLevel, std::greater<Price>> ask_levels_;
 };
-
-// Trial-and-error development step #4: verification run completed.
-
-// Trial-and-error development step #12: verification run completed.
-
-// Trial-and-error development step #20: verification run completed.
-
-// Trial-and-error development step #28: verification run completed.
-
-// Trial-and-error development step #36: verification run completed.
-
-// Trial-and-error development step #44: verification run completed.
-
-// Trial-and-error development step #52: verification run completed.
-
-// Trial-and-error development step #60: verification run completed.
-
-// Trial-and-error development step #68: verification run completed.
-
-// Trial-and-error development step #76: verification run completed.
-
-// Trial-and-error development step #84: verification run completed.
-
-// Trial-and-error development step #92: verification run completed.
-
-// Trial-and-error development step #100: verification run completed.
-
-// Trial-and-error development step #108: verification run completed.
-
-// Trial-and-error development step #116: verification run completed.

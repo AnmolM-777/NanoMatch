@@ -21,35 +21,3 @@ struct Trade {
     Price price;
     Qty qty;
 };
-
-// Trial-and-error development step #1: verification run completed.
-
-// Trial-and-error development step #9: verification run completed.
-
-// Trial-and-error development step #17: verification run completed.
-
-// Trial-and-error development step #25: verification run completed.
-
-// Trial-and-error development step #33: verification run completed.
-
-// Trial-and-error development step #41: verification run completed.
-
-// Trial-and-error development step #49: verification run completed.
-
-// Trial-and-error development step #57: verification run completed.
-
-// Trial-and-error development step #65: verification run completed.
-
-// Trial-and-error development step #73: verification run completed.
-
-// Trial-and-error development step #81: verification run completed.
-
-// Trial-and-error development step #89: verification run completed.
-
-// Trial-and-error development step #97: verification run completed.
-
-// Trial-and-error development step #105: verification run completed.
-
-// Trial-and-error development step #113: verification run completed.
-
-// Trial-and-error development step #121: verification run completed.

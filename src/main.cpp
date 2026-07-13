@@ -29,33 +29,3 @@ int main() {
     std::cout << "=== Engine main execution completed ===" << std::endl;
     return 0;
 }
-
-// Trial-and-error development step #6: verification run completed.
-
-// Trial-and-error development step #14: verification run completed.
-
-// Trial-and-error development step #22: verification run completed.
-
-// Trial-and-error development step #30: verification run completed.
-
-// Trial-and-error development step #38: verification run completed.
-
-// Trial-and-error development step #46: verification run completed.
-
-// Trial-and-error development step #54: verification run completed.
-
-// Trial-and-error development step #62: verification run completed.
-
-// Trial-and-error development step #70: verification run completed.
-
-// Trial-and-error development step #78: verification run completed.
-
-// Trial-and-error development step #86: verification run completed.
-
-// Trial-and-error development step #94: verification run completed.
-
-// Trial-and-error development step #102: verification run completed.
-
-// Trial-and-error development step #110: verification run completed.
-
-// Trial-and-error development step #118: verification run completed.

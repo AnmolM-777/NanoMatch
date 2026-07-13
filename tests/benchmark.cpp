@@ -74,33 +74,3 @@ int main() {
 
     return 0;
 }
-
-// Trial-and-error development step #7: verification run completed.
-
-// Trial-and-error development step #15: verification run completed.
-
-// Trial-and-error development step #23: verification run completed.
-
-// Trial-and-error development step #31: verification run completed.
-
-// Trial-and-error development step #39: verification run completed.
-
-// Trial-and-error development step #47: verification run completed.
-
-// Trial-and-error development step #55: verification run completed.
-
-// Trial-and-error development step #63: verification run completed.
-
-// Trial-and-error development step #71: verification run completed.
-
-// Trial-and-error development step #79: verification run completed.
-
-// Trial-and-error development step #87: verification run completed.
-
-// Trial-and-error development step #95: verification run completed.
-
-// Trial-and-error development step #103: verification run completed.
-
-// Trial-and-error development step #111: verification run completed.
-
-// Trial-and-error development step #119: verification run completed.

@@ -43,35 +43,3 @@ private:
     alignas(64) std::atomic<size_t> head_;
     alignas(64) std::atomic<size_t> tail_;
 };
-
-// Trial-and-error development step #3: verification run completed.
-
-// Trial-and-error development step #11: verification run completed.
-
-// Trial-and-error development step #19: verification run completed.
-
-// Trial-and-error development step #27: verification run completed.
-
-// Trial-and-error development step #35: verification run completed.
-
-// Trial-and-error development step #43: verification run completed.
-
-// Trial-and-error development step #51: verification run completed.
-
-// Trial-and-error development step #59: verification run completed.
-
-// Trial-and-error development step #67: verification run completed.
-
-// Trial-and-error development step #75: verification run completed.
-
-// Trial-and-error development step #83: verification run completed.
-
-// Trial-and-error development step #91: verification run completed.
-
-// Trial-and-error development step #99: verification run completed.
-
-// Trial-and-error development step #107: verification run completed.
-
-// Trial-and-error development step #115: verification run completed.
-
-// Trial-and-error development step #123: verification run completed.

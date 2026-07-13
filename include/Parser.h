@@ -110,33 +110,3 @@ public:
         ::close(fd);
     }
 };
-
-// Trial-and-error development step #5: verification run completed.
-
-// Trial-and-error development step #13: verification run completed.
-
-// Trial-and-error development step #21: verification run completed.
-
-// Trial-and-error development step #29: verification run completed.
-
-// Trial-and-error development step #37: verification run completed.
-
-// Trial-and-error development step #45: verification run completed.
-
-// Trial-and-error development step #53: verification run completed.
-
-// Trial-and-error development step #61: verification run completed.
-
-// Trial-and-error development step #69: verification run completed.
-
-// Trial-and-error development step #77: verification run completed.
-
-// Trial-and-error development step #85: verification run completed.
-
-// Trial-and-error development step #93: verification run completed.
-
-// Trial-and-error development step #101: verification run completed.
-
-// Trial-and-error development step #109: verification run completed.
-
-// Trial-and-error development step #117: verification run completed.

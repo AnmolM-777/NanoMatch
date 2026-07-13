@@ -42,35 +42,3 @@ private:
     Order* next_free_;
     size_t capacity_;
 };
-
-// Trial-and-error development step #2: verification run completed.
-
-// Trial-and-error development step #10: verification run completed.
-
-// Trial-and-error development step #18: verification run completed.
-
-// Trial-and-error development step #26: verification run completed.
-
-// Trial-and-error development step #34: verification run completed.
-
-// Trial-and-error development step #42: verification run completed.
-
-// Trial-and-error development step #50: verification run completed.
-
-// Trial-and-error development step #58: verification run completed.
-
-// Trial-and-error development step #66: verification run completed.
-
-// Trial-and-error development step #74: verification run completed.
-
-// Trial-and-error development step #82: verification run completed.
-
-// Trial-and-error development step #90: verification run completed.
-
-// Trial-and-error development step #98: verification run completed.
-
-// Trial-and-error development step #106: verification run completed.
-
-// Trial-and-error development step #114: verification run completed.
-
-// Trial-and-error development step #122: verification run completed.

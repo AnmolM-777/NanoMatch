@@ -8,33 +8,3 @@ include_directories(include)
 
 add_executable(NanoMatch src/main.cpp)
 add_executable(Benchmark tests/benchmark.cpp)
-
-// Trial-and-error development step #8: verification run completed.
-
-// Trial-and-error development step #16: verification run completed.
-
-// Trial-and-error development step #24: verification run completed.
-
-// Trial-and-error development step #32: verification run completed.
-
-// Trial-and-error development step #40: verification run completed.
-
-// Trial-and-error development step #48: verification run completed.
-
-// Trial-and-error development step #56: verification run completed.
-
-// Trial-and-error development step #64: verification run completed.
-
-// Trial-and-error development step #72: verification run completed.
-
-// Trial-and-error development step #80: verification run completed.
-
-// Trial-and-error development step #88: verification run completed.
-
-// Trial-and-error development step #96: verification run completed.
-
-// Trial-and-error development step #104: verification run completed.
-
-// Trial-and-error development step #112: verification run completed.
-
-// Trial-and-error development step #120: verification run completed.
