@@ -8,3 +8,4 @@ include_directories(include)
 
 add_executable(NanoMatch src/main.cpp)
 add_executable(Benchmark tests/benchmark.cpp)
+add_executable(RunDataset tests/run_dataset.cpp)

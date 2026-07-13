@@ -21,3 +21,11 @@ struct Trade {
     Price price;
     Qty qty;
 };
+
+struct PriceLevel {
+    Price price;
+    Order* head = nullptr;
+    Order* tail = nullptr;
+    Qty total_qty = 0;
+};
+

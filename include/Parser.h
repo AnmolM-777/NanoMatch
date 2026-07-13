@@ -8,7 +8,6 @@
 #include <stdexcept>
 #include <iostream>
 #include "Types.h"
-#include "OrderBook.h"
 
 struct ITCHAddOrder {
     char type;
@@ -24,7 +23,8 @@ struct ITCHAddOrder {
 
 class ITCHParser {
 public:
-    static void parse_file(const std::string& filepath, OrderBook& book) {
+    template<typename BookType>
+    static void parse_file(const std::string& filepath, BookType& book) {
         int fd = ::open(filepath.c_str(), O_RDONLY);
         if (fd < 0) throw std::runtime_error("Failed to open ITCH file");
         struct stat sb;
@@ -64,7 +64,8 @@ public:
 
 class CSVParser {
 public:
-    static void parse_file(const std::string& filepath, OrderBook& book) {
+    template<typename BookType>
+    static void parse_file(const std::string& filepath, BookType& book) {
         int fd = ::open(filepath.c_str(), O_RDONLY);
         if (fd < 0) throw std::runtime_error("Failed to open CSV file");
         struct stat sb;
@@ -79,8 +80,7 @@ public:
 
         while (ptr < end) {
             char* line_end = ptr;
-            while (line_end < end && *line_end != '
-') line_end++;
+            while (line_end < end && *line_end != '\n') line_end++;
             
             if (ptr < line_end) {
                 char action = *ptr;
@@ -99,8 +99,7 @@ public:
                     book.add_order(id, price, qty, side);
                 } else if (action == 'C') {
                     OrderId id = 0;
-                    while (ptr < line_end && *ptr != '' && *ptr != '
-') { id = id * 10 + (*ptr - '0'); ptr++; }
+                    while (ptr < line_end && *ptr != '\r' && *ptr != '\n') { id = id * 10 + (*ptr - '0'); ptr++; }
                     book.cancel_order(id);
                 }
             }

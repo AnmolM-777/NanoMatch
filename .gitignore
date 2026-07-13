@@ -4,3 +4,14 @@ build/
 *.o
 *.log
 .DS_Store
+
+# Compiled binaries
+NanoMatch
+Benchmark
+RunDataset
+
+# Dataset files
+tests/data.csv
+tests/data.bin
+*.csv
+*.bin
